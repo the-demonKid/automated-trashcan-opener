@@ -8,7 +8,7 @@ const int echoPin = 10;
 long duration;
 int distance;
 
-int pos = 105;
+int pos = 90;
 
 void setup() {
   // put your setup code here, to run once:
@@ -34,7 +34,7 @@ void loop() {
 
 
   if (distance < 30){
-    myservo.write(360);
+    myservo.write(180);
     Serial.print("Lid is Open");
     delay(6000);
     myservo.write(pos);
