@@ -9,6 +9,6 @@ Photo of Verison 1 of automated trashcan
 
 Future Imporvements
 
-Instead of attaching the servo motor to the box, the motor should be seperate from the can that holds the trash. Since the motor is inside the trashcan, the motors movement is often blocked by the trash inside. To fix this make an automated lid that had it's own department for the electronics and use a heavier material so a weight is not needed to be used to reset the lid to a closed position. 
+Instead of attaching the servo motor to the box, the motor should be seperate from the can that holds the trash. Since the motor is inside the trashcan, the motors movement is often blocked by the trash inside. To fix this make an automated lid that has its own department for the electronics and use a heavier material so a coin weight is not needed to be used to reset the lid to a closed position. 
 
 
